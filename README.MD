@@ -62,7 +62,7 @@ Replace `script_name.py` with the desired script filename.
 
 ## Authors
 This project was developed by:
-- Nadav Choen
+- Nadav Cohen
 - Aviv Oz
 - Naama Yahav
 - Noam Glikman
